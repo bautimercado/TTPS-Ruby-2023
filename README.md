@@ -10,3 +10,7 @@
  - [Ejercicio 7](https://github.com/bautimercado/TTPS-Ruby-2023/blob/2e922ad703ce628ca8ad5a0d53c2b856f63ab41a/Practica%201/ejercicio7.rb)
  - [Ejercicio 8](https://github.com/bautimercado/TTPS-Ruby-2023/blob/2e922ad703ce628ca8ad5a0d53c2b856f63ab41a/Practica%201/ejercicio8.rb)
  - [Ejercicio 9](https://github.com/bautimercado/TTPS-Ruby-2023/blob/2e922ad703ce628ca8ad5a0d53c2b856f63ab41a/Practica%201/ejercicio9.rb)
+ - [Ejercicio 10](https://github.com/bautimercado/TTPS-Ruby-2023/blob/1df346211fb737f652a3739318acbd95b546056d/Practica%201/ejercicio10.md)
+ - [Ejercicio 11](https://github.com/bautimercado/TTPS-Ruby-2023/blob/1df346211fb737f652a3739318acbd95b546056d/Practica%201/ejercicio11.md)
+ - [Ejercicio 12](https://github.com/bautimercado/TTPS-Ruby-2023/blob/1df346211fb737f652a3739318acbd95b546056d/Practica%201/ejercicio12.rb)
+ - [Ejercicio 13](https://github.com/bautimercado/TTPS-Ruby-2023/blob/1df346211fb737f652a3739318acbd95b546056d/Practica%201/ejercicio13.rb)

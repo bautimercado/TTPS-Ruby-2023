@@ -7,7 +7,7 @@
 #end
 
 def contar(string, substring)
-    return string.scan(/#{Regexp.escape(substring)}/i).length
+    string.scan(/#{Regexp.escape(substring)}/i).length
 end
 
 puts contar("La casa de la esquina tiene la puerta roja y la ventana blanca.", "la")
